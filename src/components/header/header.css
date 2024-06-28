@@ -18,7 +18,7 @@
 
 .header__logo span {
     font-weight: 900;
-    font-style: 40px;
+    font-size: 40px;
     line-height: 1.5;
     letter-spacing: 0.03em;
     color: black;
@@ -27,7 +27,7 @@
 
 .header__nav {
     font-weight: 500;
-    font-style: 22px;
+    font-size: 22px;
     line-height: 1.5;
     letter-spacing: 0.01em;
 }
@@ -48,8 +48,9 @@
     background-color: black;
     border-radius: 7px;
     font-weight: 500;
-    font-style: 24px;
+    font-size: 24px;
     line-height: 1.5;
     letter-spacing: -0.03em;
     color: white;
 }
+
